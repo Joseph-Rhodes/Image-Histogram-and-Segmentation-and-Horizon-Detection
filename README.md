@@ -6,7 +6,7 @@ This repository contains the Lab 4 report for COMP27112 Visual Computing. The re
 ## How to View the Report
 Click the link below to open the report in your web browser:
 
-[View Lab 4 Report](./COMP27112_Lab4_Report.pdf)
+[View Report](./COMP27112_Lab4_Report.pdf)
 
 Alternatively, you can manually open the `COMP27112_Lab4_Report.pdf` file using any PDF viewer.
 
